@@ -1,2 +1,2 @@
 # docker-XLMMacroDeobfuscator
-XLMMacroDeobfuscator container image
+XLMMacroDeobfuscator-v0.2.3 container image
